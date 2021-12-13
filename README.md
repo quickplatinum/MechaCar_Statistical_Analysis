@@ -35,16 +35,20 @@
 ## T-Tests on Suspension Coils
 
 - T-Test: All manufacturing lots 
+
 ![T-Test Cumulative](https://user-images.githubusercontent.com/88692025/145753127-403f24f7-7684-420b-bc23-3d249a02cd7b.PNG)
 
 - T-Test: Lot 1 
+
 ![T-Test Lot 1](https://user-images.githubusercontent.com/88692025/145753210-b2229f29-ef95-4c45-b2e7-f10d3ea3433b.PNG)
 
 - T-Test: Lot 2
+
 ![T-Test Lot 2](https://user-images.githubusercontent.com/88692025/145753220-35cfd64b-c98b-4d56-b6ff-a64131ddc57a.PNG)
 
 - T-Test: Lot 3
-- ![T-Test Lot 3](https://user-images.githubusercontent.com/88692025/145753223-c759af4d-fe6f-4b01-a771-0bb2e5e8af69.PNG)
+
+![T-Test Lot 3](https://user-images.githubusercontent.com/88692025/145753223-c759af4d-fe6f-4b01-a771-0bb2e5e8af69.PNG)
 
 - All Manufacturing Lots: With a p-value of (0.06028), the null hypothesis cannot be rejected. the mean value is at 1498 and the p value is larger than the 0.05 required. so the distribution of the data is not statistically signifcant to diffrentiate versus the normal distribution.
 - Lot 1: With a p-value of 1, well above 0.05, it is clear that the distribution is not significantly different from the normal distribution.
@@ -62,7 +66,7 @@ In order to see how economical MechCar vehicles are against compeition, the metr
 Hypothesis: MechaCar cars fuel effeciency is similar to competitor's vehicles in the same vehicle class 
 Null Hypothesis: MechaCar cars fuel effeciency is worse or better than competitor vehicles.
 
--Statistical Test
+- Statistical Test
 Best test for this pupose is do Two-Sample T-Tests.
 
 - Data Needed
